@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:id="@+id/home"
+        android:icon="@drawable/home"/>
+
+    <item android:title="profile"
+        android:id="@+id/profile"
+        android:icon="@drawable/infoprofile"/>
+
+    <item android:title=""
+        android:id="@+id/cart"
+        android:enabled="false"
+        />
+
+    <item android:title="Support"
+        android:id="@+id/support"
+        android:icon="@drawable/blurcircular"/>
+
+    <item android:title="Setting"
+        android:id="@+id/setting"
+        android:icon="@drawable/settings" />
+</menu>
